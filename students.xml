@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<christ>
+   <computer_science>
+      <stu-name>abcd</stu-name>
+      <stu-university>hello</stu-university>
+      <stu-email>abcd@university.in</stu-email>
+      <stu-phone>7899224696</stu-phone>
+   </computer_science>
+    <computer_science>
+      <stu-name>efgh</stu-name>
+      <stu-university>christ</stu-university>
+      <stu-email>efgh@university.in</stu-email>
+      <stu-phone>8095950048</stu-phone>
+   </computer_science>
+    <computer_science>
+      <stu-name>ijkl</stu-name>
+      <stu-university>joseph's</stu-university>
+      <stu-email>ijkl@university.in</stu-email>
+      <stu-phone>9591340593</stu-phone>
+   </computer_science>
+</christ>
